@@ -11,6 +11,13 @@
     "heroku"
   ],
   "author": "Victor-Parga",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parguita/heroku-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parguita/heroku-test/issues"
+  },
+  "homepage": "https://github.com/parguita/heroku-test#readme"
 }
-
