@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/parguita/heroku-test/issues"
   },
-  "homepage": "https://github.com/parguita/heroku-test#readme"
+  "homepage": "https://github.com/parguita/heroku-test#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
 }
